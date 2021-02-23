@@ -1,6 +1,0 @@
-# github.com/robteix/testmod v1.0.0
-## explicit
-github.com/robteix/testmod
-# github.com/rselbach/testmod/v2 v2.0.0
-## explicit
-github.com/rselbach/testmod/v2
